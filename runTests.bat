@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy Bypass  -File  ./Scripts/runTests.ps1
